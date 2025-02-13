@@ -13,7 +13,7 @@
      -  Feedback Instantâneo: Respostas corretas e incorretas são mostradas imediatamente após cada pergunta.
 
 ## ✒️ Autores
-Inês Borges - Desenvolvedora - Insborges
+Inês Borges - Desenvolvedora - Insborges |
 Maximilian Schwarzmüller - Instrutor 
 
 ## 🙏🏼Agradecimentos
